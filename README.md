@@ -1,10 +1,11 @@
-DESCRIPTION
+**DESCRIPTION**
 
-A small utilty tool to flatten a deeply nested array
+_A small utilty tool to flatten a deeply nested array_
 
-INSTALLATION
+**INSTALLATION**
 
 **npm install maxflat-array**
 
+**USAGE**
 
 ![screenshot](/usage-nw.png)
