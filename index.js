@@ -1,7 +1,7 @@
 export default function flatten(arr,depth=Infinity) {
   if(!depth)
     return arr
-   return depth_flat(arr,1)
+   return depth_flat(arr,0)
 
    
   function depth_flat(arr,d){
