@@ -4,7 +4,7 @@ A small utilty tool to flatten a deeply nested array
 
 INSTALLATION
 
-npm i maxflat-array
+![npm install maxflat-array](/install.png)
 
 
-![screenshot](/usage.png)
+![screenshot](/usage-nw.png)
